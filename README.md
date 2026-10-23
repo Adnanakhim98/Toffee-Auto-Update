@@ -41,7 +41,7 @@
 **📱Android Phone and Android TV**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 * Use OTT Navigator [Download](https://d.apkpure.com/b/APK/studio.scillarium.ottnavigator?version=latest) 
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u)
+* Add This PlayList [Playlist Link]([(https://raw.githubusercontent.com/Adnanakhim98/SAM-IPTV/refs/heads/main/Toffee.m3u)]
 
 *  Enjoy 😊
 
@@ -60,7 +60,7 @@
 
 # 🛡️ Credits
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=00000000&width=400&lines=Made+By+Monirul+Islam)](https://git.io/typing-svg)
+[![Typing SVG]()](https://git.io/typing-svg)
 
 
 # 📝Note
@@ -79,7 +79,7 @@
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/monirul_Islam_SM)
 
 #### 👤 Project Maintainer
-**Monirul Islam**  
+**Adnan**  
 Maintained with ❤️ in Bangladesh 🇧🇩
 
 
